@@ -133,6 +133,12 @@ Are we missing your awesome plugin? [Add it to this page](https://github.com/ion
 | Zip | `capacitor-zip` | <https://github.com/triniwiz/capacitor-zip> | |
 | UDP | `@unitree-czk/capacitor-udp` | <https://github.com/unitree-czk/capacitor-udp> | |
 
+## Intents
+| Name                    | NPM package | GitHub | Notes |
+| ----------------------- | ----------- | ------ | ------ |
+| SendIntent | `send-intent` | <https://github.com/carsten-klaffke/send-intent.git> | |
+
+
 ## Bluetooth
 
 | Name                    | NPM package | GitHub | Notes |
